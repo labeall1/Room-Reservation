@@ -1,9 +1,9 @@
 Georgia Tech Room Reservation Service
 
 What is this project:
-- This project is writte in Python 3
+- This project is coded in Python 3
 - It is a Mock Room Reservation service for Georgia Tech
-- SQL was implemented to pull data from the provided database
+- SQL was implemented to pull data from the school provided database
 - GUIs were coded as the interface for the project
 
 How to run this;
